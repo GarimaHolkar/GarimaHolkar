@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garima-holkar-114202210)](https://www.linkedin.com/in/garima-holkar-114202210)
+[![Linkedin Badge](https://img.shields.io/badge/-Garima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garima-holkar-114202210)](https://www.linkedin.com/in/garima-holkar-114202210)
 
 
 I'm
